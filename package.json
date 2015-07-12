@@ -1,0 +1,25 @@
+﻿{
+  "name": "mirrorjs",
+  "description": "A brand new JavaScript framework for thin and fat clients.",
+  "version": "0.2.1",
+  "author": "relane",
+  "bugs": {
+    "url": "https://github.com/relane/mirrorjs/issues"
+  },
+  "contributors": [],
+  "dependencies": {},
+  "devDependencies": {},
+  "homepage": "https://github.com/relane/mirrorjs",
+  "keywords": [
+    "thin client",
+	"fat client",
+    "javascript",
+	"framework"
+  ],
+  "license": "MIT",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/relane/mirrorjs.git"
+  }
+}
