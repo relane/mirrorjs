@@ -1,18 +1,18 @@
-# mirrorJS
+# mirrorjs
 A brand new JavaScript framework for thin and fat clients!
 
 
-## mirrorJS's hierarchical structure
-![mirrorJS hierarchy structure](img/mirrorjs.png)
+## mirrorjs's hierarchical structure
+![mirrorjs hierarchy structure](img/mirrorjs.png)
 
 ---
 
-## mirrorJS's architecture
-![mirrorJS architecture](img/architecture.png)
+## mirrorjs's architecture
+![mirrorjs architecture](img/architecture.png)
 
 ---
 
-## mirrorJS widget's hierarchical structure
+## mirrorjs widget's hierarchical structure
 ![widgets hierarchy structure](img/widgets.png)
 
 ---
